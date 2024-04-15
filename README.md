@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+🔭 I’m currently working at IES Lacetània, Manresa, Barcelona
+- 🌱 I’m currently teaching programming: Python and Backend
+- 📫 How to reach me: mpilar.moreno@lacetania.cat
+- 😄 Pronouns: her/she
+- ⚡ Enjoy your day!!!
+
 <!--
 **mpilarmt/mpilarmt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
